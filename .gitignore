@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# R workspace files
+.RData
+.RData*
+.Rhistory
+.Rproj.user/
+
+# Sensitive data and intermediate files
+*.rds
+*.RDS
+*.rda
+*.RData
+*.h5ad
+*.h5
+*.h5seurat
+*.loom
+*.fastq
+*.fastq.gz
+*.bam
+*.bai
+*.mtx
+*.mtx.gz
+*.csv
+*.tsv
+*.xlsx
+
+# Logs
+*.log
